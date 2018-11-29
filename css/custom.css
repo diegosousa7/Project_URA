@@ -1,7 +1,7 @@
 .body{
 		margin: 0px;
 		padding: 0px;
-		background: linear-gradient(to left, rgba(173, 202, 230,0.5) 0%,rgba(226, 226, 226,1) 60%), url(../img/bkg.jpg);
+		/*background: linear-gradient(to left, rgba(173, 202, 230,0.5) 0%,rgba(226, 226, 226,1) 60%), url(../img/bkg.jpg);*/
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-attachment: fixed;
